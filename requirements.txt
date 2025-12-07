@@ -1,0 +1,82 @@
+# Grok Imagine Expert - Python Dependencies
+# Python 3.11+ required
+
+# =================================================================
+# Core Framework
+# =================================================================
+langgraph>=0.0.50
+langchain>=0.1.0
+langchain-anthropic>=0.1.0
+
+# =================================================================
+# Database (Supabase)
+# =================================================================
+supabase>=2.0.0
+postgrest>=0.16.0
+
+# =================================================================
+# UI Framework (Dash)
+# =================================================================
+dash>=2.14.0
+dash-bootstrap-components>=1.5.0
+plotly>=5.18.0
+
+# =================================================================
+# Web Automation (Playwright)
+# =================================================================
+playwright>=1.40.0
+# Run after install: playwright install chromium
+
+# =================================================================
+# Video Processing
+# =================================================================
+opencv-python>=4.8.0
+moviepy>=1.0.3
+# Note: FFmpeg is required - install separately:
+#   macOS: brew install ffmpeg
+#   Windows: choco install ffmpeg
+#   Linux: apt-get install ffmpeg
+
+# =================================================================
+# Image Processing
+# =================================================================
+Pillow>=10.1.0
+numpy>=1.24.0
+
+# =================================================================
+# AI/ML (for scoring)
+# =================================================================
+anthropic>=0.18.0  # Claude API
+# xai (if/when official Python SDK exists)
+
+# =================================================================
+# Utilities
+# =================================================================
+python-dotenv>=1.0.0  # Environment variables
+pydantic>=2.5.0       # Data validation
+requests>=2.31.0      # HTTP requests
+aiohttp>=3.9.0        # Async HTTP
+tenacity>=8.2.0       # Retry logic
+
+# =================================================================
+# Development Tools (Optional)
+# =================================================================
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+black>=23.12.0
+ruff>=0.1.0
+mypy>=1.7.0
+
+# =================================================================
+# MCP Integration (Optional)
+# =================================================================
+# fastmcp>=0.1.0  # Uncomment if adding MCP tools
+
+# =================================================================
+# Platform-Specific Notes
+# =================================================================
+# Windows users: Some packages may require Microsoft C++ Build Tools
+# Install from: https://visualstudio.microsoft.com/visual-cpp-build-tools/
+
+# macOS users: Some packages may require Xcode Command Line Tools
+# Install: xcode-select --install
