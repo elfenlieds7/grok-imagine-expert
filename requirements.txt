@@ -73,6 +73,14 @@ mypy>=1.7.0
 # fastmcp>=0.1.0  # Uncomment if adding MCP tools
 
 # =================================================================
+# Grok Web Connector (Internal Library)
+# =================================================================
+# Install from GitHub (private repo - requires GitHub auth):
+grok-web-connector @ git+https://github.com/elfenlieds7/grok-web-connector.git
+# Or for local development (editable install):
+# -e /path/to/grok-web-connector
+
+# =================================================================
 # Platform-Specific Notes
 # =================================================================
 # Windows users: Some packages may require Microsoft C++ Build Tools
