@@ -13,6 +13,8 @@ Grok Imagine can only generate 15-second short videos. This project breaks throu
 - ☁️ **Multi-device Sync**: Supabase database + Dropbox file storage
 - 🎨 **Dash Visualization**: Real-time view of exploration tree and MCTS process
 
+> **📖 Important**: See [DESIGN.md](./DESIGN.md) for detailed design decisions and rationale behind all technical choices. This is essential reading for understanding why we chose MCTS over simpler algorithms, Dash over Streamlit, and the Supabase + Dropbox architecture.
+
 ## System Architecture
 
 ```
