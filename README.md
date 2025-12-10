@@ -428,7 +428,7 @@ python scripts/analyze_mcts.py --pass-id <pass-uuid>
 - **Backend**: Python 3.11+, LangGraph
 - **Database**: Supabase (PostgreSQL)
 - **Storage**: Dropbox
-- **Automation**: Playwright (Grok Imagine web)
+- **Automation**: [grok-web-connector](https://github.com/elfenlieds7/grok-web-connector) (Grok Imagine web automation & API client)
 - **Video Processing**: OpenCV, MoviePy, FFmpeg
 - **AI Scoring**: Claude (via Anthropic API)
 - **Image Generation** (optional): xAI API
