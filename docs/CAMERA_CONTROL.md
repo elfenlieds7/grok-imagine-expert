@@ -2,32 +2,47 @@
 
 When creating videos with Grok Imagine, you can control camera movement using the `adjustment_prompt` parameter.
 
-## Tested Camera Instructions
+## Known Regression (December 2025)
 
-All commands tested on 2025-12-13 with demo URLs.
+**Warning**: As of December 2025, Grok Imagine has a known regression causing unwanted "forced zoom" effects on many camera commands. Several commands that should only rotate or move the camera also include unexpected zoom-in behavior.
 
-| Command | Description | Status | Demo URL |
-|---------|-------------|--------|----------|
-| `Static Shot` | Fixed camera, no movement | ✅ | [View](https://grok.com/imagine/post/80a95302-9a41-4cf4-8d7b-bc567b6bab86) |
-| `Pan Left` | Camera rotates horizontally left | ✅ | [View](https://grok.com/imagine/post/bb8021c3-18d2-4d61-a75b-ed711b7def06) |
-| `Pan Right` | Camera rotates horizontally right | ✅ | [View](https://grok.com/imagine/post/e27f5401-2717-4b13-84a8-e3dd471a57e9) |
-| `Tilt Up` | Camera rotates vertically up | ✅ | [View](https://grok.com/imagine/post/9b2882a1-1a00-41ed-9585-1d96bd58c30a) |
-| `Tilt Down` | Camera rotates vertically down | ⚠️ | 15次未通过moderation |
-| `Zoom In` | Lens adjusts to make subject closer | ✅ | [View](https://grok.com/imagine/post/6a49b78e-86a6-4ddc-9d81-c0da1fe66a20) |
-| `Zoom Out` | Lens adjusts to make subject farther | ✅ | [View](https://grok.com/imagine/post/0970120c-85b3-41a1-8f9b-6b001c34e802) |
-| `Dolly In` | Camera moves forward toward subject | ✅ | [View](https://grok.com/imagine/post/bc22549d-ffab-44ec-8ed9-5860737a580c) |
-| `Dolly Out` | Camera moves backward from subject | ✅ | [View](https://grok.com/imagine/post/7d2b79d9-fa92-4f2c-837e-5909788e2083) |
-| `Tracking Shot` | Camera follows the subject | ✅ | 手工测试通过 |
-| `Crane Shot` | Camera moves vertically on crane | ✅ | [View](https://grok.com/imagine/post/3852278f-47c0-4604-a9f0-d8572c4c3c0c) |
-| `Handheld` | Shaky, documentary-style camera | ✅ | [View](https://grok.com/imagine/post/dbb5cc49-9dd4-4e5c-ae05-f411c86a997a) |
-| `Orbit` | Camera circles around subject | ✅ | [View](https://grok.com/imagine/post/242a3b93-f705-450a-82d2-db10b4242cf3) |
+**Source**: [Piunikaweb (2025-12-11)](https://piunikaweb.com/2025/12/11/grok-video-generation-forced-zoom-nsfw-update/) - xAI employee is collecting feedback, may be temporary due to new model testing.
+
+## Camera Commands - Tested Behavior (2025-12-13)
+
+| Command | Expected Behavior | Actual Behavior (Dec 2025) | Status |
+|---------|-------------------|---------------------------|--------|
+| `Static Shot` | Fixed camera, no movement | No movement at all | ✅ Normal |
+| `Pan Left` | Camera rotates horizontally left | Rotates left around subject + zooms in to subject's right side | ⚠️ Regression |
+| `Pan Right` | Camera rotates horizontally right | Rotates right around subject + zooms in to subject's left side | ⚠️ Regression |
+| `Tilt Up` | Camera rotates vertically up | Zooms in + rises, stops above subject's head (subject exits frame) | ⚠️ Regression |
+| `Tilt Down` | Camera rotates vertically down | Failed moderation 15 times | ❓ Unknown |
+| `Zoom In` | Lens zooms closer to subject | Slowly zooms in | ✅ Normal |
+| `Zoom Out` | Lens zooms away from subject | Slowly zooms out | ✅ Normal |
+| `Dolly In` | Camera moves forward toward subject | Slowly moves closer | ✅ Normal |
+| `Dolly Out` | Camera moves backward from subject | Slowly moves away | ✅ Normal |
+| `Tracking Shot` | Camera follows moving subject | Follows subject, maintains distance | ✅ Normal |
+| `Crane Shot` | Camera moves vertically on crane | Rises while staying aimed at subject | ✅ Normal |
+| `Handheld` | Shaky, documentary-style movement | Slowly zooms in + slight vertical wobble | ⚠️ Regression |
+| `Orbit` | Camera circles around subject | Rotates to upper-right + zooms in, ends up above subject looking down (inverted) | ⚠️ Regression |
+
+### Summary
+
+- **Working normally**: Static Shot, Zoom In/Out, Dolly In/Out, Tracking Shot, Crane Shot
+- **Affected by regression**: Pan Left/Right, Tilt Up, Handheld, Orbit (all have unwanted zoom-in)
+- **Unknown**: Tilt Down (moderation issues)
+
+### Recommendation
+
+Use `Static Shot` if you want to avoid forced zoom effects until this regression is fixed.
 
 ## Usage with grok-web-connector
 
 ```python
 from grok_web import get_client
 
-async with get_client(browser_host="127.0.0.1", browser_port=9222) as client:
+# Chrome auto-launches if not running (isolated profile)
+async with get_client() as client:
     # Static camera - no movement (opposite of forced zoom)
     await client.create_video(post_id, adjustment_prompt="Static Shot")
 
