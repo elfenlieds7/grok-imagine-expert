@@ -1,0 +1,151 @@
+{
+  "timestamp": "2025-12-14 00:15:00",
+  "status": "paused_rate_limit",
+
+  "main_test": {
+    "task_id": "bdf0d52",
+    "workers": 5,
+    "ports": [9223, 9224, 9225, 9226, 9227],
+    "successes": [
+      {
+        "command": "Orbit 360°",
+        "post_id": "9ac51419-65c8-467c-958e-97e9f1abadfa",
+        "video_id": "3d4b9864-735b-4515-ab88-c7d9ab88d418",
+        "url": "https://grok.com/imagine/post/3d4b9864-735b-4515-ab88-c7d9ab88d418",
+        "source": "previous_run"
+      },
+      {
+        "command": "Orbit",
+        "post_id": "9ac51419-65c8-467c-958e-97e9f1abadfa",
+        "video_id": "c8749aa8-812e-433b-b5ac-2508f3a52307",
+        "url": "https://grok.com/imagine/post/c8749aa8-812e-433b-b5ac-2508f3a52307",
+        "attempts": 15
+      },
+      {
+        "command": "Orbit",
+        "post_id": "9ac51419-65c8-467c-958e-97e9f1abadfa",
+        "video_id": "f0dd421e-b09a-4665-8990-364e592c6f81",
+        "url": "https://grok.com/imagine/post/f0dd421e-b09a-4665-8990-364e592c6f81",
+        "attempts": 23,
+        "note": "duplicate success for same command"
+      },
+      {
+        "command": "Pan Left, locked distance",
+        "post_id": "9ac51419-65c8-467c-958e-97e9f1abadfa",
+        "video_id": "5c099d2f-c408-4cd2-9bc6-3f8dfa306b18",
+        "url": "https://grok.com/imagine/post/5c099d2f-c408-4cd2-9bc6-3f8dfa306b18",
+        "attempts": 1
+      },
+      {
+        "command": "Pan Left, locked distance",
+        "post_id": "9ac51419-65c8-467c-958e-97e9f1abadfa",
+        "video_id": "ed2c4350-1058-4f2b-97bd-177186762903",
+        "url": "https://grok.com/imagine/post/ed2c4350-1058-4f2b-97bd-177186762903",
+        "attempts": 14,
+        "note": "duplicate success for same command"
+      },
+      {
+        "command": "Pan Left, maintain distance",
+        "post_id": "9ac51419-65c8-467c-958e-97e9f1abadfa",
+        "video_id": "935e49aa-63a8-4e14-a3ac-4c2b60fe27ba",
+        "url": "https://grok.com/imagine/post/935e49aa-63a8-4e14-a3ac-4c2b60fe27ba",
+        "attempts": 18
+      },
+      {
+        "command": "Pan Right, fixed distance from subject",
+        "post_id": "9ac51419-65c8-467c-958e-97e9f1abadfa",
+        "video_id": "8f09efaf-d6ba-4416-9243-9e5c9b3c3e0f",
+        "url": "https://grok.com/imagine/post/8f09efaf-d6ba-4416-9243-9e5c9b3c3e0f",
+        "attempts": 7
+      },
+      {
+        "command": "Pan Right, fixed distance from subject",
+        "post_id": "9ac51419-65c8-467c-958e-97e9f1abadfa",
+        "video_id": "0dec7271-3551-4560-91ef-b9ac3c46fb3f",
+        "url": "https://grok.com/imagine/post/0dec7271-3551-4560-91ef-b9ac3c46fb3f",
+        "attempts": 10,
+        "note": "duplicate"
+      },
+      {
+        "command": "Pan Right, fixed distance from subject",
+        "post_id": "9ac51419-65c8-467c-958e-97e9f1abadfa",
+        "video_id": "c286cb71-b67b-4f79-8d29-99e1b9ae0d13",
+        "url": "https://grok.com/imagine/post/c286cb71-b67b-4f79-8d29-99e1b9ae0d13",
+        "attempts": 12,
+        "note": "duplicate"
+      },
+      {
+        "command": "Pan Right, fixed distance from subject",
+        "post_id": "9ac51419-65c8-467c-958e-97e9f1abadfa",
+        "video_id": "d2318efa-6182-4a3e-bdbf-d6fac7a1abfd",
+        "url": "https://grok.com/imagine/post/d2318efa-6182-4a3e-bdbf-d6fac7a1abfd",
+        "attempts": 13,
+        "note": "duplicate"
+      },
+      {
+        "command": "Locked Off Shot",
+        "post_id": "e396bb74-3204-4eb5-bcec-035d24af9eaa",
+        "video_id": "61d2b42b-7de9-47cd-930e-324cc57d9986",
+        "url": "https://grok.com/imagine/post/61d2b42b-7de9-47cd-930e-324cc57d9986",
+        "attempts": 2
+      },
+      {
+        "command": "Fixed Frame",
+        "post_id": "e396bb74-3204-4eb5-bcec-035d24af9eaa",
+        "video_id": "2d7cb36e-c945-42b2-8118-fce27615b588",
+        "url": "https://grok.com/imagine/post/2d7cb36e-c945-42b2-8118-fce27615b588",
+        "attempts": 6
+      }
+    ],
+    "pending": [
+      {"command": "360° clockwise orbit", "post_id": "9ac51419-65c8-467c-958e-97e9f1abadfa", "last_attempt": "~16"},
+      {"command": "360° counterclockwise orbit", "post_id": "9ac51419-65c8-467c-958e-97e9f1abadfa", "last_attempt": "89+"},
+      {"command": "slow orbit", "post_id": "9ac51419-65c8-467c-958e-97e9f1abadfa", "last_attempt": "~16"},
+      {"command": "orbit around subject", "post_id": "9ac51419-65c8-467c-958e-97e9f1abadfa", "last_attempt": "~24"},
+      {"command": "Pan Right, locked distance", "post_id": "9ac51419-65c8-467c-958e-97e9f1abadfa", "last_attempt": "~10"},
+      {"command": "Static Shot", "post_id": "e396bb74-3204-4eb5-bcec-035d24af9eaa", "last_attempt": "~3"},
+      {"command": "Locked Shot", "post_id": "e396bb74-3204-4eb5-bcec-035d24af9eaa", "last_attempt": "~1"},
+      {"command": "Immobile Shot", "post_id": "e396bb74-3204-4eb5-bcec-035d24af9eaa", "last_attempt": "~1"},
+      {"command": "Tripod Shot", "post_id": "e396bb74-3204-4eb5-bcec-035d24af9eaa", "last_attempt": "~4"},
+      {"command": "no camera movement", "post_id": "e396bb74-3204-4eb5-bcec-035d24af9eaa", "last_attempt": "56+"},
+      {"command": "tripod, no camera shake", "post_id": "e396bb74-3204-4eb5-bcec-035d24af9eaa", "last_attempt": "not_started"},
+      {"command": "stable horizon", "post_id": "e396bb74-3204-4eb5-bcec-035d24af9eaa", "last_attempt": "not_started"}
+    ]
+  },
+
+  "pan_test": {
+    "task_id": "bc8ecaf",
+    "status": "killed",
+    "workers": 3,
+    "ports": [9228, 9229, 9230],
+    "reason": "zero successes after 50+ attempts per command, suspected rate limiting",
+    "commands_tested": [
+      {"command": "Pan Left from camera position", "attempts": 47, "successes": 0},
+      {"command": "Pan Left, camera stays in place", "attempts": 54, "successes": 0},
+      {"command": "Rotate camera left", "attempts": 52, "successes": 0}
+    ]
+  },
+
+  "unique_successful_commands": [
+    "Orbit 360°",
+    "Orbit",
+    "Pan Left, locked distance",
+    "Pan Left, maintain distance",
+    "Pan Right, fixed distance from subject",
+    "Locked Off Shot",
+    "Fixed Frame"
+  ],
+
+  "test_images": {
+    "ORBIT_POST": "9ac51419-65c8-467c-958e-97e9f1abadfa",
+    "STATIC_POST": "e396bb74-3204-4eb5-bcec-035d24af9eaa"
+  },
+
+  "notes": [
+    "API hit severe rate limiting around 00:10",
+    "Nearly 100% 'Failed to parse video generation response' errors",
+    "8 Chrome instances (5+3) likely exceeded rate limit",
+    "Pan test killed to reduce load",
+    "Main test still running but very slow progress"
+  ]
+}

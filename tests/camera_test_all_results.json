@@ -1,0 +1,657 @@
+{
+  "unique_prompts": {
+    "Pan Left from camera position": [
+      {
+        "post": "ORBIT_POST",
+        "prompt": "Pan Left from camera position",
+        "video_id": "d9d6c640-c2d3-4196-a114-d017689c264a",
+        "url": "https://grok.com/imagine/post/d9d6c640-c2d3-4196-a114-d017689c264a"
+      },
+      {
+        "post": "ORBIT_POST",
+        "prompt": "Pan Left from camera position",
+        "video_id": "a84126d1-d7a1-4b9c-ac61-6da355f6bcd2",
+        "url": "https://grok.com/imagine/post/a84126d1-d7a1-4b9c-ac61-6da355f6bcd2"
+      }
+    ],
+    "Pan Left, maintain distance": [
+      {
+        "post": "ORBIT_POST",
+        "prompt": "Pan Left, maintain distance",
+        "video_id": "2b3e0988-c017-4c51-a32b-7ba59faa7236",
+        "url": "https://grok.com/imagine/post/2b3e0988-c017-4c51-a32b-7ba59faa7236"
+      },
+      {
+        "post": "ORBIT_POST",
+        "prompt": "Pan Left, maintain distance",
+        "video_id": "50aa24da-61af-4929-9ad3-54e2b9d29b9e",
+        "url": "https://grok.com/imagine/post/50aa24da-61af-4929-9ad3-54e2b9d29b9e"
+      }
+    ],
+    "Pan Right, fixed distance from subject": [
+      {
+        "post": "ORBIT_POST",
+        "prompt": "Pan Right, fixed distance from subject",
+        "video_id": "c9e322a0-680d-4a48-9238-a8e6efd5dfd8",
+        "url": "https://grok.com/imagine/post/c9e322a0-680d-4a48-9238-a8e6efd5dfd8"
+      },
+      {
+        "post": "ORBIT_POST",
+        "prompt": "Pan Right, fixed distance from subject",
+        "video_id": "2e5409c7-8037-4ec1-b54f-f08254ca0a46",
+        "url": "https://grok.com/imagine/post/2e5409c7-8037-4ec1-b54f-f08254ca0a46"
+      },
+      {
+        "post": "ORBIT_POST",
+        "prompt": "Pan Right, fixed distance from subject",
+        "video_id": "903fc71b-a3e4-426c-bc28-f90eb4548628",
+        "url": "https://grok.com/imagine/post/903fc71b-a3e4-426c-bc28-f90eb4548628"
+      }
+    ],
+    "360\u00b0 counterclockwise orbit": [
+      {
+        "post": "ORBIT_POST",
+        "prompt": "360\u00b0 counterclockwise orbit",
+        "video_id": "b43c936a-d021-4107-bfa8-c7993bb76e3a",
+        "url": "https://grok.com/imagine/post/b43c936a-d021-4107-bfa8-c7993bb76e3a"
+      }
+    ],
+    "Pan Left, camera stays in place": [
+      {
+        "post": "ORBIT_POST",
+        "prompt": "Pan Left, camera stays in place",
+        "video_id": "cf3a0379-3bde-4e0f-a4c1-e6e529ff6777",
+        "url": "https://grok.com/imagine/post/cf3a0379-3bde-4e0f-a4c1-e6e529ff6777"
+      },
+      {
+        "post": "ORBIT_POST",
+        "prompt": "Pan Left, camera stays in place",
+        "video_id": "c517a68e-edd3-46fb-81cc-fa2deefef6c0",
+        "url": "https://grok.com/imagine/post/c517a68e-edd3-46fb-81cc-fa2deefef6c0"
+      },
+      {
+        "post": "ORBIT_POST",
+        "prompt": "Pan Left, camera stays in place",
+        "video_id": "eec6d558-c34c-43cf-aba3-e98686030da6",
+        "url": "https://grok.com/imagine/post/eec6d558-c34c-43cf-aba3-e98686030da6"
+      }
+    ],
+    "Rotate camera left": [
+      {
+        "post": "ORBIT_POST",
+        "prompt": "Rotate camera left",
+        "video_id": "a29531be-bb68-42f4-9f44-966ec3ca3405",
+        "url": "https://grok.com/imagine/post/a29531be-bb68-42f4-9f44-966ec3ca3405"
+      },
+      {
+        "post": "ORBIT_POST",
+        "prompt": "Rotate camera left",
+        "video_id": "75f886a5-9a00-4821-95cc-39b0e3261a5a",
+        "url": "https://grok.com/imagine/post/75f886a5-9a00-4821-95cc-39b0e3261a5a"
+      }
+    ],
+    "Pan Left, locked distance": [
+      {
+        "post": "ORBIT_POST",
+        "prompt": "Pan Left, locked distance",
+        "video_id": "8f09efaf-d6ba-4416-9243-9e5c9b3c3e0f",
+        "url": "https://grok.com/imagine/post/8f09efaf-d6ba-4416-9243-9e5c9b3c3e0f"
+      }
+    ],
+    "Orbit": [
+      {
+        "post": "ORBIT_POST",
+        "prompt": "Orbit",
+        "video_id": "ed2c4350-1058-4f2b-97bd-177186762903",
+        "url": "https://grok.com/imagine/post/ed2c4350-1058-4f2b-97bd-177186762903"
+      },
+      {
+        "post": "ORBIT_POST",
+        "prompt": "Orbit",
+        "video_id": "3d4b9864-735b-4515-ab88-c7d9ab88d418",
+        "url": "https://grok.com/imagine/post/3d4b9864-735b-4515-ab88-c7d9ab88d418"
+      }
+    ],
+    "orbit around subject": [
+      {
+        "post": "ORBIT_POST",
+        "prompt": "orbit around subject",
+        "video_id": "f0dd421e-b09a-4665-8990-364e592c6f81",
+        "url": "https://grok.com/imagine/post/f0dd421e-b09a-4665-8990-364e592c6f81"
+      },
+      {
+        "post": "ORBIT_POST",
+        "prompt": "orbit around subject",
+        "video_id": "074ace7d-bc9d-4bd4-b4c4-ac56f96344d3",
+        "url": "https://grok.com/imagine/post/074ace7d-bc9d-4bd4-b4c4-ac56f96344d3"
+      },
+      {
+        "post": "ORBIT_POST",
+        "prompt": "orbit around subject",
+        "video_id": "240b1aad-285f-4215-a2cb-3859b4280a91",
+        "url": "https://grok.com/imagine/post/240b1aad-285f-4215-a2cb-3859b4280a91"
+      },
+      {
+        "post": "ORBIT_POST",
+        "prompt": "orbit around subject",
+        "video_id": "c031db64-d01f-4162-97c2-df0d418fbeb7",
+        "url": "https://grok.com/imagine/post/c031db64-d01f-4162-97c2-df0d418fbeb7"
+      }
+    ],
+    "slow orbit": [
+      {
+        "post": "ORBIT_POST",
+        "prompt": "slow orbit",
+        "video_id": "5c099d2f-c408-4cd2-9bc6-3f8dfa306b18",
+        "url": "https://grok.com/imagine/post/5c099d2f-c408-4cd2-9bc6-3f8dfa306b18"
+      }
+    ],
+    "360\u00b0 clockwise orbit": [
+      {
+        "post": "ORBIT_POST",
+        "prompt": "360\u00b0 clockwise orbit",
+        "video_id": "c8749aa8-812e-433b-b5ac-2508f3a52307",
+        "url": "https://grok.com/imagine/post/c8749aa8-812e-433b-b5ac-2508f3a52307"
+      },
+      {
+        "post": "ORBIT_POST",
+        "prompt": "360\u00b0 clockwise orbit",
+        "video_id": "a6f2e388-301c-49e7-bf54-e5165c92f10b",
+        "url": "https://grok.com/imagine/post/a6f2e388-301c-49e7-bf54-e5165c92f10b"
+      }
+    ],
+    "Tilt Up\u3002\u770b\u5230\u5728\u94a5\u5319\u7684\u4e0a\u65b9\u6709\u4e00\u628a\u575a\u56fa\u7684\u91d1\u5c5e\u9501\u628a\u51e0\u6761\u94c1\u94fe\u9501\u5728\u4e00\u8d77": [
+      {
+        "post": "ORBIT_POST",
+        "prompt": "Tilt Up\u3002\u770b\u5230\u5728\u94a5\u5319\u7684\u4e0a\u65b9\u6709\u4e00\u628a\u575a\u56fa\u7684\u91d1\u5c5e\u9501\u628a\u51e0\u6761\u94c1\u94fe\u9501\u5728\u4e00\u8d77",
+        "video_id": "0f683267-bbab-4792-a52a-4c9bdfa305cf",
+        "url": "https://grok.com/imagine/post/0f683267-bbab-4792-a52a-4c9bdfa305cf"
+      }
+    ],
+    "Dolly Out": [
+      {
+        "post": "ORBIT_POST",
+        "prompt": "Dolly Out",
+        "video_id": "7d2b79d9-fa92-4f2c-837e-5909788e2083",
+        "url": "https://grok.com/imagine/post/7d2b79d9-fa92-4f2c-837e-5909788e2083"
+      }
+    ],
+    "Handheld": [
+      {
+        "post": "ORBIT_POST",
+        "prompt": "Handheld",
+        "video_id": "dbb5cc49-9dd4-4e5c-ae05-f411c86a997a",
+        "url": "https://grok.com/imagine/post/dbb5cc49-9dd4-4e5c-ae05-f411c86a997a"
+      }
+    ],
+    "Crane Shot": [
+      {
+        "post": "ORBIT_POST",
+        "prompt": "Crane Shot",
+        "video_id": "3852278f-47c0-4604-a9f0-d8572c4c3c0c",
+        "url": "https://grok.com/imagine/post/3852278f-47c0-4604-a9f0-d8572c4c3c0c"
+      }
+    ],
+    "Dolly In": [
+      {
+        "post": "ORBIT_POST",
+        "prompt": "Dolly In",
+        "video_id": "bc22549d-ffab-44ec-8ed9-5860737a580c",
+        "url": "https://grok.com/imagine/post/bc22549d-ffab-44ec-8ed9-5860737a580c"
+      }
+    ],
+    "Zoom Out": [
+      {
+        "post": "ORBIT_POST",
+        "prompt": "Zoom Out",
+        "video_id": "0970120c-85b3-41a1-8f9b-6b001c34e802",
+        "url": "https://grok.com/imagine/post/0970120c-85b3-41a1-8f9b-6b001c34e802"
+      }
+    ],
+    "Pan Left": [
+      {
+        "post": "ORBIT_POST",
+        "prompt": "Pan Left",
+        "video_id": "bb8021c3-18d2-4d61-a75b-ed711b7def06",
+        "url": "https://grok.com/imagine/post/bb8021c3-18d2-4d61-a75b-ed711b7def06"
+      }
+    ],
+    "static shot": [
+      {
+        "post": "ORBIT_POST",
+        "prompt": "static shot",
+        "video_id": "bdfa4204-5734-4234-be45-81e3147cd26c",
+        "url": "https://grok.com/imagine/post/bdfa4204-5734-4234-be45-81e3147cd26c"
+      }
+    ],
+    "no camera movement": [
+      {
+        "post": "STATIC_POST",
+        "prompt": "no camera movement",
+        "video_id": "42608cd7-a6f8-4368-9e58-89bfde604b77",
+        "url": "https://grok.com/imagine/post/42608cd7-a6f8-4368-9e58-89bfde604b77"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "no camera movement",
+        "video_id": "a24966d1-fadb-47cb-af69-0fad1e67acc6",
+        "url": "https://grok.com/imagine/post/a24966d1-fadb-47cb-af69-0fad1e67acc6"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "no camera movement",
+        "video_id": "09763e19-23a6-476e-9e29-03d7de3c12fb",
+        "url": "https://grok.com/imagine/post/09763e19-23a6-476e-9e29-03d7de3c12fb"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "no camera movement",
+        "video_id": "100f8d62-15b7-41f8-ac2b-a8aad0c1fdd1",
+        "url": "https://grok.com/imagine/post/100f8d62-15b7-41f8-ac2b-a8aad0c1fdd1"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "no camera movement",
+        "video_id": "2c243360-ec32-4622-98c1-8e1a702a4f82",
+        "url": "https://grok.com/imagine/post/2c243360-ec32-4622-98c1-8e1a702a4f82"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "no camera movement",
+        "video_id": "3e79587c-07ba-42be-a98d-7c39e37f7d20",
+        "url": "https://grok.com/imagine/post/3e79587c-07ba-42be-a98d-7c39e37f7d20"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "no camera movement",
+        "video_id": "b7426f66-16e8-4863-9541-b9171c3129a2",
+        "url": "https://grok.com/imagine/post/b7426f66-16e8-4863-9541-b9171c3129a2"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "no camera movement",
+        "video_id": "dc5505ef-93b6-4d1f-bf92-35be0127375e",
+        "url": "https://grok.com/imagine/post/dc5505ef-93b6-4d1f-bf92-35be0127375e"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "no camera movement",
+        "video_id": "5aaa24bb-756a-4944-aa64-6533171597a7",
+        "url": "https://grok.com/imagine/post/5aaa24bb-756a-4944-aa64-6533171597a7"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "no camera movement",
+        "video_id": "5f0ede36-3943-4f49-9f98-afb9d51e7713",
+        "url": "https://grok.com/imagine/post/5f0ede36-3943-4f49-9f98-afb9d51e7713"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "no camera movement",
+        "video_id": "fe59a9c9-58ce-4e4f-aa7d-871f65988b74",
+        "url": "https://grok.com/imagine/post/fe59a9c9-58ce-4e4f-aa7d-871f65988b74"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "no camera movement",
+        "video_id": "76bb294a-9318-41f2-8398-5337a7e19e79",
+        "url": "https://grok.com/imagine/post/76bb294a-9318-41f2-8398-5337a7e19e79"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "no camera movement",
+        "video_id": "f52dea1c-b250-4b06-b1e2-4c06919c1718",
+        "url": "https://grok.com/imagine/post/f52dea1c-b250-4b06-b1e2-4c06919c1718"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "no camera movement",
+        "video_id": "f76abdac-d544-4bbe-9be3-0cb4d964a592",
+        "url": "https://grok.com/imagine/post/f76abdac-d544-4bbe-9be3-0cb4d964a592"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "no camera movement",
+        "video_id": "9b0c8ef0-1673-4364-b7ec-7a10e4f79d57",
+        "url": "https://grok.com/imagine/post/9b0c8ef0-1673-4364-b7ec-7a10e4f79d57"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "no camera movement",
+        "video_id": "0d33fb2f-4faf-4da5-ad4b-1e4c8cfade8c",
+        "url": "https://grok.com/imagine/post/0d33fb2f-4faf-4da5-ad4b-1e4c8cfade8c"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "no camera movement",
+        "video_id": "3be04d7b-bdde-4d48-8ca4-06cb592a5af2",
+        "url": "https://grok.com/imagine/post/3be04d7b-bdde-4d48-8ca4-06cb592a5af2"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "no camera movement",
+        "video_id": "d87088bd-2672-4b5a-807d-28c9000778a8",
+        "url": "https://grok.com/imagine/post/d87088bd-2672-4b5a-807d-28c9000778a8"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "no camera movement",
+        "video_id": "aae1b6db-6bf9-4db0-9fea-732f484fecae",
+        "url": "https://grok.com/imagine/post/aae1b6db-6bf9-4db0-9fea-732f484fecae"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "no camera movement",
+        "video_id": "9796b75a-de36-4dc1-85b0-d8e70b7c8af9",
+        "url": "https://grok.com/imagine/post/9796b75a-de36-4dc1-85b0-d8e70b7c8af9"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "no camera movement",
+        "video_id": "a3ccc036-ec9a-4108-95c9-09e635b9e28e",
+        "url": "https://grok.com/imagine/post/a3ccc036-ec9a-4108-95c9-09e635b9e28e"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "no camera movement",
+        "video_id": "039095be-e2f4-4c45-9da4-1f4c0b211d31",
+        "url": "https://grok.com/imagine/post/039095be-e2f4-4c45-9da4-1f4c0b211d31"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "no camera movement",
+        "video_id": "a296024a-0834-4352-90ee-9945c782216d",
+        "url": "https://grok.com/imagine/post/a296024a-0834-4352-90ee-9945c782216d"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "no camera movement",
+        "video_id": "7f9d4fe7-a771-40d8-8bd3-5319f6d8d2da",
+        "url": "https://grok.com/imagine/post/7f9d4fe7-a771-40d8-8bd3-5319f6d8d2da"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "no camera movement",
+        "video_id": "5e840354-912a-4383-825d-cd52ab983dc0",
+        "url": "https://grok.com/imagine/post/5e840354-912a-4383-825d-cd52ab983dc0"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "no camera movement",
+        "video_id": "c1ca7f5f-553b-4c7c-9dca-4360f5331e5c",
+        "url": "https://grok.com/imagine/post/c1ca7f5f-553b-4c7c-9dca-4360f5331e5c"
+      }
+    ],
+    "Fixed Frame": [
+      {
+        "post": "STATIC_POST",
+        "prompt": "Fixed Frame",
+        "video_id": "cdcf2b3d-0955-4108-b11a-286849721110",
+        "url": "https://grok.com/imagine/post/cdcf2b3d-0955-4108-b11a-286849721110"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "Fixed Frame",
+        "video_id": "ab377da0-28c8-4d58-ac41-a8e76dc95d48",
+        "url": "https://grok.com/imagine/post/ab377da0-28c8-4d58-ac41-a8e76dc95d48"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "Fixed Frame",
+        "video_id": "f18f660e-3f5c-48a7-9c1a-16249f2c23d2",
+        "url": "https://grok.com/imagine/post/f18f660e-3f5c-48a7-9c1a-16249f2c23d2"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "Fixed Frame",
+        "video_id": "7101f1df-bd32-4d22-bc25-ce516bc55ee7",
+        "url": "https://grok.com/imagine/post/7101f1df-bd32-4d22-bc25-ce516bc55ee7"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "Fixed Frame",
+        "video_id": "64d92167-2496-4e34-a1a5-f5e11cbdd289",
+        "url": "https://grok.com/imagine/post/64d92167-2496-4e34-a1a5-f5e11cbdd289"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "Fixed Frame",
+        "video_id": "013ee79a-f099-465d-b58a-29f639598c48",
+        "url": "https://grok.com/imagine/post/013ee79a-f099-465d-b58a-29f639598c48"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "Fixed Frame",
+        "video_id": "5ce73527-e7b6-4517-a877-91b0faedfde2",
+        "url": "https://grok.com/imagine/post/5ce73527-e7b6-4517-a877-91b0faedfde2"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "Fixed Frame",
+        "video_id": "c5b24dab-7b79-4a66-bde7-756959f70931",
+        "url": "https://grok.com/imagine/post/c5b24dab-7b79-4a66-bde7-756959f70931"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "Fixed Frame",
+        "video_id": "6e0a59b8-8f88-4a20-a354-904c63100223",
+        "url": "https://grok.com/imagine/post/6e0a59b8-8f88-4a20-a354-904c63100223"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "Fixed Frame",
+        "video_id": "1ab1e15c-be00-4afc-b702-dcaafaa50fce",
+        "url": "https://grok.com/imagine/post/1ab1e15c-be00-4afc-b702-dcaafaa50fce"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "Fixed Frame",
+        "video_id": "a772fa70-ef93-4708-b0aa-1caa2e444550",
+        "url": "https://grok.com/imagine/post/a772fa70-ef93-4708-b0aa-1caa2e444550"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "Fixed Frame",
+        "video_id": "1c44fd05-ebf6-4035-907b-74f1b39f3f14",
+        "url": "https://grok.com/imagine/post/1c44fd05-ebf6-4035-907b-74f1b39f3f14"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "Fixed Frame",
+        "video_id": "5fa02750-a363-4046-b1cd-239b241f6611",
+        "url": "https://grok.com/imagine/post/5fa02750-a363-4046-b1cd-239b241f6611"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "Fixed Frame",
+        "video_id": "c22c97f5-77fc-42cd-920a-e7a1c465c7f6",
+        "url": "https://grok.com/imagine/post/c22c97f5-77fc-42cd-920a-e7a1c465c7f6"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "Fixed Frame",
+        "video_id": "7b6a0f6b-af87-4fda-abe3-6a3fe118ce1b",
+        "url": "https://grok.com/imagine/post/7b6a0f6b-af87-4fda-abe3-6a3fe118ce1b"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "Fixed Frame",
+        "video_id": "5baa92d7-9d5b-4bab-a50b-88b160b8b55c",
+        "url": "https://grok.com/imagine/post/5baa92d7-9d5b-4bab-a50b-88b160b8b55c"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "Fixed Frame",
+        "video_id": "edc1c6a5-00e8-46d4-b02c-0a303c6eb8b8",
+        "url": "https://grok.com/imagine/post/edc1c6a5-00e8-46d4-b02c-0a303c6eb8b8"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "Fixed Frame",
+        "video_id": "f8e5f7f4-b088-43ea-815b-1d36354f3468",
+        "url": "https://grok.com/imagine/post/f8e5f7f4-b088-43ea-815b-1d36354f3468"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "Fixed Frame",
+        "video_id": "db4cc6a1-7533-4807-9684-79a514202e52",
+        "url": "https://grok.com/imagine/post/db4cc6a1-7533-4807-9684-79a514202e52"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "Fixed Frame",
+        "video_id": "a23b0f1b-dfd0-4b0e-a511-56f02ab2133e",
+        "url": "https://grok.com/imagine/post/a23b0f1b-dfd0-4b0e-a511-56f02ab2133e"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "Fixed Frame",
+        "video_id": "ab900ac2-0381-4f9a-a556-dd5d3948ca58",
+        "url": "https://grok.com/imagine/post/ab900ac2-0381-4f9a-a556-dd5d3948ca58"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "Fixed Frame",
+        "video_id": "90d3a0a9-965a-4b82-93eb-bb02434ba9e3",
+        "url": "https://grok.com/imagine/post/90d3a0a9-965a-4b82-93eb-bb02434ba9e3"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "Fixed Frame",
+        "video_id": "ffd357d9-b9b0-43c8-a28e-e75c80edc8e6",
+        "url": "https://grok.com/imagine/post/ffd357d9-b9b0-43c8-a28e-e75c80edc8e6"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "Fixed Frame",
+        "video_id": "6b13875c-6401-4208-80f4-020a99fb1638",
+        "url": "https://grok.com/imagine/post/6b13875c-6401-4208-80f4-020a99fb1638"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "Fixed Frame",
+        "video_id": "59562993-6437-446e-90da-4847c9717ca8",
+        "url": "https://grok.com/imagine/post/59562993-6437-446e-90da-4847c9717ca8"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "Fixed Frame",
+        "video_id": "1be1a1d6-fcb1-42ef-a68d-6fbbf295e334",
+        "url": "https://grok.com/imagine/post/1be1a1d6-fcb1-42ef-a68d-6fbbf295e334"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "Fixed Frame",
+        "video_id": "560d26d2-36e6-4791-bf5f-a7ff7552844d",
+        "url": "https://grok.com/imagine/post/560d26d2-36e6-4791-bf5f-a7ff7552844d"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "Fixed Frame",
+        "video_id": "bef524a0-28f5-41c8-b701-c9b9ef391ceb",
+        "url": "https://grok.com/imagine/post/bef524a0-28f5-41c8-b701-c9b9ef391ceb"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "Fixed Frame",
+        "video_id": "ec2fb745-934d-4148-bf42-a11d4384bce0",
+        "url": "https://grok.com/imagine/post/ec2fb745-934d-4148-bf42-a11d4384bce0"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "Fixed Frame",
+        "video_id": "ae56aa3f-d442-4ee1-91ae-3965e2de30d5",
+        "url": "https://grok.com/imagine/post/ae56aa3f-d442-4ee1-91ae-3965e2de30d5"
+      }
+    ],
+    "Tripod Shot": [
+      {
+        "post": "STATIC_POST",
+        "prompt": "Tripod Shot",
+        "video_id": "2d7cb36e-c945-42b2-8118-fce27615b588",
+        "url": "https://grok.com/imagine/post/2d7cb36e-c945-42b2-8118-fce27615b588"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "Tripod Shot",
+        "video_id": "d9dd2b15-ad84-43fa-a8cd-d72594837f06",
+        "url": "https://grok.com/imagine/post/d9dd2b15-ad84-43fa-a8cd-d72594837f06"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "Tripod Shot",
+        "video_id": "994650bb-d7b9-49e8-990d-070a19010d8c",
+        "url": "https://grok.com/imagine/post/994650bb-d7b9-49e8-990d-070a19010d8c"
+      }
+    ],
+    "Immobile Shot": [
+      {
+        "post": "STATIC_POST",
+        "prompt": "Immobile Shot",
+        "video_id": "d2318efa-6182-4a3e-bdbf-d6fac7a1abfd",
+        "url": "https://grok.com/imagine/post/d2318efa-6182-4a3e-bdbf-d6fac7a1abfd"
+      }
+    ],
+    "Locked Off Shot": [
+      {
+        "post": "STATIC_POST",
+        "prompt": "Locked Off Shot",
+        "video_id": "c286cb71-b67b-4f79-8d29-99e1b9ae0d13",
+        "url": "https://grok.com/imagine/post/c286cb71-b67b-4f79-8d29-99e1b9ae0d13"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "Locked Off Shot",
+        "video_id": "96ddf8cd-85b0-4fc3-b1b5-8cd283b8a287",
+        "url": "https://grok.com/imagine/post/96ddf8cd-85b0-4fc3-b1b5-8cd283b8a287"
+      }
+    ],
+    "Static Shot": [
+      {
+        "post": "STATIC_POST",
+        "prompt": "Static Shot",
+        "video_id": "0dec7271-3551-4560-91ef-b9ac3c46fb3f",
+        "url": "https://grok.com/imagine/post/0dec7271-3551-4560-91ef-b9ac3c46fb3f"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "Static Shot",
+        "video_id": "c7624d5a-589c-4226-bad3-f63640c463e3",
+        "url": "https://grok.com/imagine/post/c7624d5a-589c-4226-bad3-f63640c463e3"
+      },
+      {
+        "post": "STATIC_POST",
+        "prompt": "Static Shot",
+        "video_id": "6e7f4998-1a00-4a2a-8848-c6c19fa1df2c",
+        "url": "https://grok.com/imagine/post/6e7f4998-1a00-4a2a-8848-c6c19fa1df2c"
+      }
+    ]
+  },
+  "summary": {
+    "Pan Left from camera position": 2,
+    "Pan Left, maintain distance": 2,
+    "Pan Right, fixed distance from subject": 3,
+    "360\u00b0 counterclockwise orbit": 1,
+    "Pan Left, camera stays in place": 3,
+    "Rotate camera left": 2,
+    "Pan Left, locked distance": 1,
+    "Orbit": 2,
+    "orbit around subject": 4,
+    "slow orbit": 1,
+    "360\u00b0 clockwise orbit": 2,
+    "Tilt Up\u3002\u770b\u5230\u5728\u94a5\u5319\u7684\u4e0a\u65b9\u6709\u4e00\u628a\u575a\u56fa\u7684\u91d1\u5c5e\u9501\u628a\u51e0\u6761\u94c1\u94fe\u9501\u5728\u4e00\u8d77": 1,
+    "Dolly Out": 1,
+    "Handheld": 1,
+    "Crane Shot": 1,
+    "Dolly In": 1,
+    "Zoom Out": 1,
+    "Pan Left": 1,
+    "static shot": 1,
+    "no camera movement": 26,
+    "Fixed Frame": 30,
+    "Tripod Shot": 3,
+    "Immobile Shot": 1,
+    "Locked Off Shot": 2,
+    "Static Shot": 3
+  }
+}
