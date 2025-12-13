@@ -15,6 +15,8 @@ Grok Imagine can only generate 15-second short videos. This project breaks throu
 
 > **📖 Important**: See [DESIGN.md](./DESIGN.md) for detailed design decisions and rationale behind all technical choices. This is essential reading for understanding why we chose MCTS over simpler algorithms, Dash over Streamlit, and the Supabase + Dropbox architecture.
 
+> **🎬 Camera Control**: See [docs/CAMERA_CONTROL.md](./docs/CAMERA_CONTROL.md) for video camera control prompts (Static Shot, Pan, Dolly, Orbit, etc.) with tested demo URLs.
+
 ## System Architecture
 
 ```
