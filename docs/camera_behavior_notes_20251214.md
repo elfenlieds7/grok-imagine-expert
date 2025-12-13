@@ -44,3 +44,20 @@ User observations from video review (2025-12-14)
 | `Tripod Shot` | [link](https://grok.com/imagine/post/2d7cb36e-c945-42b2-8118-fce27615b588) | | |
 | `Locked Off Shot` | [link](https://grok.com/imagine/post/c286cb71-b67b-4f79-8d29-99e1b9ae0d13) | | |
 | `Immobile Shot` | [link](https://grok.com/imagine/post/d2318efa-6182-4a3e-bdbf-d6fac7a1abfd) | | |
+
+### New Commands (2025-12-14 Worker Pool Test)
+| Command | Video | Behavior | Zoom? |
+|---------|-------|----------|-------|
+| `Tilt Up` | [link](https://grok.com/imagine/post/f3828788) | | |
+| `Tilt Down` | [link](https://grok.com/imagine/post/fbdb101c) | | |
+| `Push In` | [link](https://grok.com/imagine/post/12204170) | | |
+| `Follow Shot` | [link](https://grok.com/imagine/post/d5e9edfe) | | |
+| `Tracking Shot` | [link](https://grok.com/imagine/post/634ebf63) | | |
+| `Steady Shot` | [link](https://grok.com/imagine/post/45ce40f1) | | |
+| `Arc Shot` | [link](https://grok.com/imagine/post/fd85fe7f-9d2e-4e96-8abb-bd78af08d611) | | |
+| `Pull Back` | [link](https://grok.com/imagine/post/e030fd55-38a1-471c-8c4f-ea49af9d7654) | | |
+| `Push Forward` | [link](https://grok.com/imagine/post/f4ad7ff8-1c6c-4ac6-ac99-32e7f9d1ef5c) | | |
+| `Rotate Left` | [link](https://grok.com/imagine/post/b20901fa-47e9-4a56-815b-ba15b071c608) | | |
+| `Rotate Right` | [link](https://grok.com/imagine/post/8e70dbfb-8f08-4bcd-9c63-2e6d806f20c6) | | |
+| `Dutch Angle` | [link](https://grok.com/imagine/post/1a2ddd98-3268-494a-ac4a-7f89d61e8ae7) | | |
+| `Whip Pan` | [link](https://grok.com/imagine/post/7e5ddcc2-a308-4001-ad3a-3963501b13b4) | | |
