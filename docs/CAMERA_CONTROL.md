@@ -37,6 +37,21 @@ When creating videos with Grok Imagine, you can control camera movement using th
 
 Due to December 2025 regression, **no reliable way to prevent forced zoom** currently. Try `Static Shot` or alternatives below, but results vary.
 
+## Prompt Structure
+
+Based on [Grok Imagine Prompt Guide](https://www.grokimagineai.net/prompt-guide):
+
+**Basic Formula**: `Subject + Motion + Scene + Shot, Style...`
+
+**Camera placement**: After motion, before style
+
+**Example**: `"Woman walks through forest, Pan Left, cinematic lighting"`
+
+**Key points**:
+- Select "Unfixed lens" in basic parameters when using camera movement
+- Supported camera types: surround, aerial, zoom, pan, follow, handheld
+- Negative prompts do NOT work
+
 ## Usage with grok-web-connector
 
 ```python
